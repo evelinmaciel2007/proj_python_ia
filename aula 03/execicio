@@ -1,0 +1,18 @@
+Futras = {
+" morango",
+" roma",
+" frabroesa",
+" mertilho",
+ "laranja",
+ "lichia",
+"acai",
+ "acerola",
+" amora" ,
+" abacate" ,
+}
+Frutas.sort()
+Frutas.append("acerola")
+y=1 
+for x in Frutas : 
+    print (y,'-',x)
+    y=y+1
